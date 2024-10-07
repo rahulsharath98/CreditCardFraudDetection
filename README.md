@@ -83,8 +83,9 @@ xgboost
 
 Usage:
 1) Clone this repository: git clone <repo-url>
-2) Install the required dependencies: pip install -r requirements.txt
-3) Run the code: python credit_card_fraud_detection.py
+2) Download dataset: download the dataset from Kaggle and keep it in the same folder where the code is present.
+3) Install the required dependencies: pip install -r requirements.txt
+4) Run the code: python credit_card_fraud_detection.py
 
 Visualizations:
 The project generates several visual outputs, including:
